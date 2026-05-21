@@ -58,7 +58,7 @@ Rukshana Roshan
 
 GitHub: https://github.com/rukshana-engineer
 Portfolio: https://rukshana-engineer.github.io/developer-portfolio/
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/rukshana-roshan
 Email: your-email@gmail.com
 ⭐ Future Improvements
 Add React version of portfolio
