@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 ---
 
 ## 🔗 Live Demo
-👉 https://rukshana-engineer.github.io/developer-portfolio/
+👉 https://rukshana-roshan.github.io/developer-portfolio/
 
 ---
 
@@ -56,8 +56,8 @@ Improve responsive web design skills
 
 Rukshana Roshan
 
-GitHub: https://github.com/rukshana-engineer
-Portfolio: https://rukshana-engineer.github.io/developer-portfolio/
+GitHub: https://github.com/rukshana-roshan
+Portfolio: https://rukshana-roshan.github.io/developer-portfolio/
 LinkedIn: www.linkedin.com/in/rukshana-roshan
 Email: rukshanaroshan.it@gmail.com
 ⭐ Future Improvements
@@ -69,7 +69,7 @@ Add backend contact form
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/rukshana-engineer/developer-portfolio.git
+git clone https://github.com/rukshana-roshan/developer-portfolio.git
 cd developer-portfolio
 open index.html
 
