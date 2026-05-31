@@ -57,9 +57,13 @@ Improve responsive web design skills
 Rukshana Roshan
 
 GitHub: https://github.com/rukshana-roshan
+
 Portfolio: https://rukshana-roshan.github.io/developer-portfolio/
+
 LinkedIn: www.linkedin.com/in/rukshana-roshan
+
 Email: rukshanaroshan.it@gmail.com
+
 ⭐ Future Improvements
 Add React version of portfolio
 Add animations and transitions
